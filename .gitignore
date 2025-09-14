@@ -62,9 +62,9 @@ Desktop.ini
 .env
 
 # notebook files
-*.ipynb_checkpoints
-*.ipynb
-notebooks/
+# *.ipynb_checkpoints
+# *.ipynb
+# notebooks/
 
 # cloned repos
 temp_dir/
